@@ -1,4 +1,4 @@
-https://skillicons.dev/icons?&perline=10&i=ae,androidstudio,blender,bootstrap,c,cs,cpp,css,discord,figma,github,gmail,heroku,html,ai,instagram,java,js,jquery,kotlin,misskey,notion,p5js,ps,postgres,pr,py,ruby,swift,twitter,unity,visualstudio,vscode,windows
+![](https://skillicons.dev/icons?&perline=10&i=ae,androidstudio,blender,bootstrap,c,cs,cpp,css,discord,figma,github,gmail,heroku,html,ai,instagram,java,js,jquery,kotlin,misskey,notion,p5js,ps,postgres,pr,py,ruby,swift,twitter,unity,visualstudio,vscode,windows)
 
 <!--
 **kawauso-luv/kawauso-luv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
