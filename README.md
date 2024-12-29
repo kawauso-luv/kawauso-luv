@@ -1,5 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawauso-luv&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawauso-luv&hide_border=true&theme=tokyonight)](https://github.com/anuraghzra/github-readme-stats)
+GitHub status:<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawauso-luv&hide_border=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghzra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawauso-luv&hide_border=true&theme=tokyonight&hide_title=true&layout=compact&line_height=60)](https://github.com/anuraghazra/github-readme-stats)
+
+Main skills:<br>
+![](https://skillicons.dev/icons?&perline=10&i=ruby,html,css,ae,discord,notion,github)
 
 I've used:<br>
 ![](https://skillicons.dev/icons?&perline=10&i=ae,androidstudio,blender,bootstrap,c,cs,cpp,css,discord,figma,github,gmail,heroku,html,ai,instagram,java,js,jquery,kotlin,misskey,notion,p5js,ps,postgres,pr,py,ruby,swift,twitter,unity,visualstudio,vscode,windows)
