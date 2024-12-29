@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawauso-luv)](https://github.com/kawauso-luv/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawauso-luv)](https://github.com/kawauso-luv/github-readme-stats&show_icons=true&theme=radical)
 
 I've used:<br>
 ![](https://skillicons.dev/icons?&perline=10&i=ae,androidstudio,blender,bootstrap,c,cs,cpp,css,discord,figma,github,gmail,heroku,html,ai,instagram,java,js,jquery,kotlin,misskey,notion,p5js,ps,postgres,pr,py,ruby,swift,twitter,unity,visualstudio,vscode,windows)
