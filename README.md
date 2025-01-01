@@ -7,7 +7,7 @@ Main skills:<br>
 ![](https://skillicons.dev/icons?&perline=10&i=ruby,html,css,discord,notion,github)
 
 I've used:<br>
-![](https://skillicons.dev/icons?&perline=10&i=unity,androidstudio,blender,bootstrap,c,cs,cpp,figma,gmail,heroku,ae,pr,ai,ps,instagram,java,js,jquery,kotlin,misskey,p5js,postgres,py,swift,twitter,visualstudio,vscode,windows)
+![](https://skillicons.dev/icons?&perline=10&i=unity,androidstudio,blender,bootstrap,c,cs,cpp,figma,gmail,heroku,ae,pr,ai,ps,instagram,java,js,jquery,kotlin,misskey,p5js,postgres,py,swift,twitter,visualstudio,vscode,docker,windows)
 
 <!--
 **kawauso-luv/kawauso-luv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
