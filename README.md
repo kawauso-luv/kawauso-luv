@@ -4,10 +4,10 @@ GitHub status:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawauso-luv&hide_border=true&theme=tokyonight&hide_title=true&layout=compact&line_height=60)](https://github.com/anuraghazra/github-readme-stats)
 
 Main skills:<br>
-![](https://skillicons.dev/icons?&perline=10&i=ruby,html,css,discord,notion,github)
+![](https://skillicons.dev/icons?&perline=10&i=ruby,html,css,discord,notion)
 
 I've used:<br>
-![](https://skillicons.dev/icons?&perline=10&i=unity,androidstudio,blender,bootstrap,c,cs,cpp,figma,gmail,heroku,ae,pr,ai,ps,instagram,java,js,jquery,kotlin,misskey,p5js,postgres,py,swift,twitter,visualstudio,vscode,docker,windows)
+![](https://skillicons.dev/icons?&perline=10&i=c,cpp,cs,kotlin,py,swift,java,js,jquery,postgres,bootstrap,unity,blender,ae,pr,ai,ps,figma,gmail,visualstudio,vscode,androidstudio,p5js,heroku,docker,github,windows,twitter,instagram,misskey)
 
 <!--
 **kawauso-luv/kawauso-luv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
