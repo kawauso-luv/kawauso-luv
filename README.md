@@ -3,6 +3,8 @@ GitHub status:<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawauso-luv&hide_border=true&theme=tokyonight&hide_title=true&layout=compact&line_height=60)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kawauso-luv&theme=tokyo-night&hide_border=true" height="250px" />
+
 Main skills:<br>
 ![](https://skillicons.dev/icons?&perline=10&i=ruby,html,css,discord,notion)
 
